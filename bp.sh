@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/BPReborn
+cd $HOME/BPRebornV2
 
 install() {
 	    cd libs
