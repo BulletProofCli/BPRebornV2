@@ -5,26 +5,10 @@
 
 # Installation
 
-```sh
-# Let's install the bot.
-cd $HOME
-git clone https://github.com/BulletProofCli/BPReborn.git
-cd BPReborn
-chmod +x bullet.sh
-./bullet.sh install
-./bullet.sh
-# Enter a phone number & confirmation code.
-
-
-# For Auto Launch:
-chmod 777 autobp.sh
-screen ./autobp.sh
-```
-
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BulletProofCli/BPReborn.git && cd BPReborn && chmod +x bullet.sh && ./bullet.sh install && chmod 777 autobp.sh && screen ./autobp.sh
+cd $HOME && git clone https://github.com/BulletProofCli/BPRebornV2.git && cd BPRebornV2 && chmod +x bp.sh && ./bp.sh install && chmod 777 autobp.sh && screen ./autobp.sh
 ```
 * * *
 ### Sudo
@@ -39,9 +23,6 @@ sudo_users = {
 
 
 ```
-
-# Support and Development
-More information [Bullet Support GP](https://telegram.me/joinchat/AAAAAEIr-OCe04YR3Lu1kw)
 
 # Special thanks to
 [@Vysheng](https://github.com/vysheng)
